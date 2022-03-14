@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.js
+  visible: true
+  text: |-
+    statement = false;
+    console.log(!statement&&false||false);
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/8476#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 31 Jan 2022 21:30:00 UTC
+record: -1
